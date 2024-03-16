@@ -3,20 +3,20 @@ h1{
     padding-bottom: #f2f2f2;
 }
 body{
-    background-color: #f2f2f2;
+    background-color: #b4adad;
 }
 li{
     margin-bottom: 5px;
 }
 ul,dl{
-    background-color: #f27c7c;
+    background-color: #a79898;
     margin-left: 20px;
 }
 dd,dt{
     font-weight: 600;
 }
 h2,a{
-    color: #1b3b5d;
+    color: #2d6caf;
 }
 p{
     background-color: #f5e1e1;
