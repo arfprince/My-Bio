@@ -1,13 +1,27 @@
-h2{
-    color: blue;
-    font-size: 20px;
-}
 h1{
-    background-color: #333;
-}
-ul,p{
-    background-color: #555;
+    background-color: #f8e5e5;
+    padding-bottom: #f2f2f2;
 }
 body{
     background-color: #f2f2f2;
+}
+li{
+    margin-bottom: 5px;
+}
+ul,dl{
+    background-color: #f27c7c;
+    margin-left: 20px;
+}
+dd,dt{
+    font-weight: 600;
+}
+h2,a{
+    color: #007bff;
+}
+p{
+    background-color: #f5e1e1;
+}
+address{
+    background-color: #81b2e6;
+    padding-block: 10px;
 }
